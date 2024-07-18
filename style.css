@@ -1,0 +1,26 @@
+h2{
+    color:red;
+}
+
+boby{
+    background-color: #blue;
+    color: orange;
+    font-family: Roboto;
+    text-align:center;
+}
+
+header{
+    border-bottom: 1px solid green;
+}
+
+footer{
+    border-top: 1px solid green;
+}
+
+#nome-usuário{
+    font-weight: bold;
+}
+
+.texto-inglês{
+    font-style: italic;
+}
